@@ -1,0 +1,16 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g2" x1="178" y1="46" x2="749" y2="854" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF5BCF"/>
+      <stop offset="1" stop-color="#A90378"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g2)"/>
+  <circle cx="174" cy="180" r="96" fill="white" fill-opacity="0.16"/>
+  <path d="M154 646C260 581 424 580 532 646" stroke="#FFF7FC" stroke-width="16" stroke-linecap="round"/>
+  <path d="M258 321L450 258L642 321V529L450 592L258 529V321Z" fill="#FFF7FB"/>
+  <path d="M450 258V592" stroke="#FF34C6" stroke-width="16" stroke-linecap="round"/>
+  <path d="M258 321L450 393L642 321" stroke="#FF34C6" stroke-width="16" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M0 720C170 650 346 645 492 685C617 720 727 772 900 744V900H0V720Z" fill="#330920"/>
+  <text x="70" y="115" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Bible Study</text>
+</svg>

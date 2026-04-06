@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g6" x1="145" y1="43" x2="781" y2="840" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF38C8"/>
+      <stop offset="1" stop-color="#7C1251"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g6)"/>
+  <circle cx="694" cy="207" r="98" fill="white" fill-opacity="0.14"/>
+  <path d="M0 706C116 653 259 633 385 661C510 689 615 749 728 753C785 755 842 747 900 726V900H0V706Z" fill="#2E0A1F"/>
+  <path d="M272 544C325 507 404 506 456 544C481 562 511 529 495 500C473 459 435 424 388 401C374 394 356 394 342 401C295 424 257 459 235 500C219 529 248 562 272 544Z" fill="#FFF4FB"/>
+  <path d="M513 592C544 546 593 515 649 507C668 504 684 517 687 535C690 553 677 569 658 572C622 578 590 596 566 623C554 637 533 640 518 630C504 619 501 605 513 592Z" fill="#FFD7EF"/>
+  <text x="71" y="115" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Service</text>
+</svg>

@@ -1,0 +1,15 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g3" x1="120" y1="48" x2="764" y2="829" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#F91BBB"/>
+      <stop offset="1" stop-color="#680F45"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g3)"/>
+  <path d="M0 653C120 614 236 612 351 642C448 668 534 717 639 723C741 729 823 690 900 637V900H0V653Z" fill="#29091C"/>
+  <path d="M457 503C515 461 575 434 642 423C660 420 677 431 681 449C685 467 675 485 657 489C604 500 558 522 516 554C486 576 443 539 457 503Z" fill="#FFF2FA"/>
+  <path d="M246 558C300 486 386 444 482 444C499 444 513 458 513 475C513 492 499 506 482 506C405 506 337 539 293 596C282 610 262 612 249 602C236 591 234 572 246 558Z" fill="#FFD7EF"/>
+  <path d="M632 223V387" stroke="#FFF9F0" stroke-width="16" stroke-linecap="round"/>
+  <path d="M562 289H702" stroke="#FFF9F0" stroke-width="16" stroke-linecap="round"/>
+  <text x="74" y="115" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Outreach</text>
+</svg>

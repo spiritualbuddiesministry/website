@@ -1,0 +1,16 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g5" x1="112" y1="57" x2="774" y2="838" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF4BCB"/>
+      <stop offset="1" stop-color="#91135B"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g5)"/>
+  <path d="M0 720C129 657 290 635 430 665C539 688 646 736 752 742C806 745 856 739 900 727V900H0V720Z" fill="#310921"/>
+  <path d="M282 523C282 474 316 438 360 438C404 438 438 474 438 523V678H282V523Z" fill="#180510"/>
+  <path d="M320 422C320 389 338 365 360 365C382 365 400 389 400 422C400 455 382 479 360 479C338 479 320 455 320 422Z" fill="#180510"/>
+  <path d="M472 558C472 509 506 473 550 473C594 473 628 509 628 558V678H472V558Z" fill="#180510"/>
+  <path d="M510 457C510 424 528 400 550 400C572 400 590 424 590 457C590 490 572 514 550 514C528 514 510 490 510 457Z" fill="#180510"/>
+  <path d="M230 699C336 650 580 650 678 699" stroke="#FFF5FB" stroke-width="16" stroke-linecap="round"/>
+  <text x="71" y="115" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Youth</text>
+</svg>

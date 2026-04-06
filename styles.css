@@ -549,6 +549,86 @@ h3 {
   color: var(--muted);
 }
 
+.social-links {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  margin-bottom: 1rem;
+}
+
+.social-link {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 3rem;
+  height: 3rem;
+  margin-bottom: 0;
+  border-radius: 50%;
+  color: var(--brand-deep);
+  background: #fff;
+  border: 2px solid rgba(242, 11, 175, 0.22);
+  box-shadow: 0 12px 24px rgba(24, 18, 28, 0.08);
+  transition:
+    transform var(--transition),
+    box-shadow var(--transition),
+    border-color var(--transition),
+    background var(--transition),
+    color var(--transition);
+}
+
+.social-link:hover,
+.social-link:focus-visible {
+  transform: translateY(-3px);
+  color: #fff;
+  background: linear-gradient(135deg, var(--brand) 0%, var(--brand-deep) 100%);
+  border-color: transparent;
+  box-shadow: 0 18px 30px rgba(196, 0, 142, 0.22);
+}
+
+.social-link svg {
+  width: 1.35rem;
+  height: 1.35rem;
+  display: block;
+  fill: currentColor;
+}
+
+.social-link-youtube svg {
+  transform: translateX(0.02rem);
+}
+
+.social-link-instagram svg {
+  transform: translateY(-0.02rem);
+}
+
+.social-link-facebook svg {
+  transform: translateX(0.01rem);
+}
+
+.social-link-youtube,
+.social-link-instagram,
+.social-link-facebook {
+  background: #fff;
+}
+
+.site-footer .social-links {
+  margin-bottom: 1.2rem;
+}
+
+.site-footer .social-link {
+  color: var(--brand-deep);
+  background: #fff;
+  border-color: rgba(242, 11, 175, 0.22);
+  box-shadow: 0 12px 24px rgba(24, 18, 28, 0.08);
+}
+
+.site-footer .social-link:hover,
+.site-footer .social-link:focus-visible {
+  color: #fff;
+  background: linear-gradient(135deg, var(--brand) 0%, var(--brand-deep) 100%);
+  border-color: transparent;
+  box-shadow: 0 18px 30px rgba(196, 0, 142, 0.22);
+}
+
 .timeline {
   display: grid;
   gap: 1rem;
@@ -595,6 +675,15 @@ h3 {
 .contact-form {
   display: grid;
   gap: 1rem;
+}
+
+.contact-stack {
+  display: grid;
+  gap: 0.55rem;
+}
+
+.contact-card .social-links {
+  margin-bottom: 0;
 }
 
 .contact-form label {

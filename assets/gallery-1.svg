@@ -1,0 +1,17 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g1" x1="100" y1="90" x2="760" y2="790" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF2CC2"/>
+      <stop offset="1" stop-color="#811250"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g1)"/>
+  <circle cx="682" cy="208" r="112" fill="white" fill-opacity="0.13"/>
+  <path d="M0 636C122 564 269 543 394 584C495 617 577 684 666 705C753 726 825 708 900 655V900H0V636Z" fill="#30091F"/>
+  <path d="M232 563C232 510 266 474 310 474C355 474 389 510 389 563V724H232V563Z" fill="#17050F"/>
+  <path d="M266 449C266 415 286 391 312 391C338 391 358 415 358 449C358 483 338 507 312 507C286 507 266 483 266 449Z" fill="#17050F"/>
+  <path d="M474 422L571 388L668 422V536L571 571L474 536V422Z" fill="#FFF8FD"/>
+  <path d="M571 388V571" stroke="#FF2DC2" stroke-width="10" stroke-linecap="round"/>
+  <path d="M474 422L571 462L668 422" stroke="#FF2DC2" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="76" y="116" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Worship</text>
+</svg>

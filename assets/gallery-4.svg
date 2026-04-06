@@ -1,0 +1,14 @@
+<svg width="900" height="900" viewBox="0 0 900 900" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="g4" x1="129" y1="101" x2="740" y2="812" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#FF3BC7"/>
+      <stop offset="1" stop-color="#851153"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="900" rx="42" fill="url(#g4)"/>
+  <circle cx="677" cy="208" r="106" fill="white" fill-opacity="0.14"/>
+  <path d="M0 720C168 652 323 649 463 688C579 721 696 771 900 748V900H0V720Z" fill="#2D0A21"/>
+  <path d="M401 467C371 461 347 446 327 425C319 417 305 425 309 438C332 500 369 554 419 597C428 605 442 603 449 594C455 587 455 577 449 571C419 541 404 507 401 467Z" fill="#FFF7FC"/>
+  <path d="M426 596C480 548 516 490 531 423C534 410 520 402 510 410C490 428 464 443 435 452C433 497 423 536 397 568C390 577 394 591 404 596C411 600 420 600 426 596Z" fill="#FFD7EF"/>
+  <text x="72" y="115" fill="white" font-family="Manrope, Arial, sans-serif" font-size="48" font-weight="800">Prayer</text>
+</svg>
